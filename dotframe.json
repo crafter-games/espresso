@@ -1,0 +1,12 @@
+{
+  "name": "espresso",
+  "sim": "sim.ts",
+  "targets": {
+    "web": {
+      "steps": [{ "label": "bundle (hashed)", "argv": ["bun", "scripts/build-web.ts"] }],
+      "out": "dist/web",
+      "deploy": { "provider": "vercel", "project": "hot-reload-espresso", "scope": "crafter-station" }
+    }
+  },
+  "assets": { "localOnly": [] }
+}
