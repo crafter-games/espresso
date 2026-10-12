@@ -9,7 +9,7 @@ Hold to pour, release on the line. The coffee keeps falling after you let go, so
 
 **[Play it](https://crafter.run/es/events/hot-reload)** · press <kbd>G</kbd> on the page, or tap "Toca para jugar" on a phone
 
-<a href="https://github.com/crafter-games/dotframe">
+<a href="https://dotframe.crafter.games">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crafter-games/dotframe/main/assets/badge/made-with-dotframe-dark.svg">
     <img alt="Made with dotframe" src="https://raw.githubusercontent.com/crafter-games/dotframe/main/assets/badge/made-with-dotframe-light.svg" height="32">
