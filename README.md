@@ -22,7 +22,8 @@ Hold to pour, release on the line. The coffee keeps falling after you let go, so
 
 - Every customer orders a drink: espresso, doble, cortado or latte. Cortados and lattes take a second layer of milk on top.
 - Clean cups in a row raise the multiplier from x2 to x4. Three ruined cups and the café closes.
-- Twists change the pour: a leaking cup, a faster machine. Late in the shift, hot mode turns the café black.
+- From the fourth cup on, twists change the pour: a cup moving on a belt, a cup you fill from memory, a cup that leaks.
+- At x3 the café goes hot and turns black.
 
 It runs on WebGPU and falls back to Canvas 2D on phones without it. One codebase, one input: hold and release.
 
